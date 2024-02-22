@@ -1,0 +1,16 @@
+langchain == 0.0.198
+openai
+Flask==2.3.2
+gunicorn
+openai==0.27.0
+tiktoken
+urllib3
+bs4
+selenium
+unstructured
+python-decouple
+nltk==3.8.1
+python-magic
+python-dotenv
+requests==2.31.0
+pydantic==1.10.9
